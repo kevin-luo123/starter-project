@@ -12,4 +12,4 @@ I experimented with several different common CNN architectures, tweaking them a 
 Discussion:
 - I could try running the same project but with 3d images instead or with a larger 2d image. 
 - For the current project, I could use more complex shapes, use more shapes so more labels need to be considered, or merge the shapes with the background image instead of simply overwriting the pixel values. 
-- I could also use unsupervised learning to classify the images and generate labels instead of providing them, and then try classifying the dataset using the CNN.  
+- I could also use unsupervised learning to cluster the images and generate labels instead of providing them, and then try classifying the dataset using the CNN.  
