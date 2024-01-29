@@ -7,7 +7,7 @@ Dataset of Images:
 To generate the images, I randomly set pixel values and pasted pixel values over to create a dataset of random images all with the same set of shapes. 
 
 Neural Network: 
-I experimented with several different common CNN architectures, tweaking them a bit to fit the dataset and labels I created. The model was trained over 20 epochs to achieve 100% accuracy on the test dataset. 
+I experimented with several different common CNN architectures, tweaking them a bit to fit the dataset and labels I created. The model was trained over 10+10 epochs to achieve 100% accuracy on the test dataset. I experimented with many different layers and hyperparameters before landing on a functioning model. 
 
 Discussion:
 - I could try running the same project but with 3d images instead or with a larger 2d image. 
